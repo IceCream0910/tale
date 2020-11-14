@@ -2,8 +2,8 @@
 layout: default
 work: true
 main: true
-title: Selected Projects
-description: 지금까지 작업한 프로젝트
+title: Projects
+description: 지금까지 작업한 프로젝트를 소개합니다.
 project-header: true
 header-img: "img/project_bg.jpg"
 ---
