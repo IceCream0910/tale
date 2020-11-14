@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Blog"
-description: 아주 가끔씩 관심 분야의 글을 올려요.
+description: 새롭게 알게된 내용이나 관심분야에 관한 글들을 올려요.
 main: true
 project-header: true
 header-img: img/about.jpg
