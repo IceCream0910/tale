@@ -1,9 +1,9 @@
 second-place:
 - name: 코로나콕
-  role: 기획 및 개발, UI 디자인
-  date: 2020. FEB - Present
+  role: 코로나19 현황 서비스를 운영중이에요.
+  date: 2020.03 ~
 
 first-place:
-- name: 안사요
-  role: 기획 및 개발
-  date: 2019. JULY - 2020. JAN
+- name: shareu
+  role: nodeJs를 배우며 유튜브 영상 공유 서비스를 만들고 있어요.
+  date: 2020.11 ~
