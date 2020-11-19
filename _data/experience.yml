@@ -1,9 +1,9 @@
 second-place:
 - name: 코로나콕
-  role: 코로나19 현황 서비스를 운영중이에요.
+  role: 코로나19 현황  서비스를 운영중이에요.
   date: 2020.03 ~
 
 first-place:
 - name: shareu
-  role: nodeJs를 배우며 유튜브 영상 공유 서비스를 만들고 있어요.
+  role: nodeJs를 배우며 유튜브 공유 서비스를 만들고 있어요.
   date: 2020.11 ~
