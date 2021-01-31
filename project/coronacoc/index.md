@@ -2,24 +2,24 @@
 layout: post
 author: "Ice Cream"
 title:  "코로나19 현황을 한번에, 코로나콕"
-subtitle: "코로나19 현황 및 정보를 제공해주는 서비스"
+subtitle: "코로나19 현황과 확진자 동선을 한번에 확인해보세요."
 type: "Personal Project"
 projects: true
 text: true
 ridi: true
 portfolio: true
 post-header: true
-header-img: "https://i.imgur.com/ADEFYat.jpeg"
-main-img: "https://i.imgur.com/ADEFYat.jpeg"
+header-img: "https://i.imgur.com/MJlzmpA.png"
+main-img: "https://i.imgur.com/MJlzmpA.png"
 role-title: "기획/디자인 및 개발, 운영"
 role-specific: ""
-platforms: "Web & Naver Whale Extensions"
+platforms: "Web & Chrome Extension"
 date: "2020.03 - 현재"
 order: 1
 ---
 
 
-[coronacoc.coc.kr](http://corona.coc.kr)
+[corona.coc.kr](http://corona.coc.kr)
 
 [웨일 확장앱](https://store.whale.naver.com/detail/ogijmjpajefalgkkdloiaiiidgeaechn)
 
