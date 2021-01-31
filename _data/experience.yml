@@ -1,9 +1,9 @@
 second-place:
 - name: 코로나콕
-  role: 코로나19 현황  서비스를 운영중이에요.
+  role: 코로나19 현황 및 확진자 동선을 한번에 확인해보세요.
   date: 2020.03 ~
 
 first-place:
-- name: shareu
-  role: nodeJs를 배우며 유튜브 공유 서비스를 만들고 있어요.
-  date: 2020.11 ~
+- name: 포켓라이브
+  role: 포켓몬고 플레이어들을 위한 커뮤니티를 만나보세요.
+  date: 2021.01 ~
