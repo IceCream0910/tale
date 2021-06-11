@@ -25,3 +25,5 @@ author:
 version:        3.4.1
 github:
   repo:         https://github.com/icecream0910/tale
+
+theme: jekyll-theme-cayman
