@@ -3,8 +3,8 @@ permalink:      /:year-:month-:day/:title
 
 # Setup
 title:          태인
-baseurl:        "https://icecream0910.github.io/tale/"
-url:            "https://icecream0910.github.io/tale/"
+baseurl:        "https://icecream0910.github.io/"
+url:            "https://icecream0910.github.io/"
 
 # Assets
 sass:
@@ -24,6 +24,6 @@ author:
 # Custom vars
 version:        3.4.1
 github:
-  repo:         https://github.com/icecream0910/tale
+  repo:         https://github.com/icecream0910/icecream0910.github.io
 
 theme: jekyll-theme-cayman
